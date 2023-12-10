@@ -8,3 +8,14 @@ Forecasting gold price based on the daily percentage change in the closing price
 
 ---
 
+<p align="center">
+  <img src="https://github.com/RaymondWKWong/AlgoTrading-ML-Workshop/blob/main/Figures/Figure2.png" width="75%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/RaymondWKWong/AlgoTrading-ML-Workshop/blob/main/Figures/Figure3.png" width="75%" />
+</p>
+
+---
